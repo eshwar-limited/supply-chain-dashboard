@@ -10,7 +10,7 @@ orders from DataCo Global across 23 regions (2015–2018).
 - OTD Rate: 45.17% vs 95% industry benchmark
 - 98,977 late orders identified
 - $2.17M cost of late deliveries
-- 115.26% projected ROI from supply chain improvement
+- 82.43% projected ROI from supply chain improvement
 - Central America: highest late delivery volume (15,518 orders)
 - Second Class shipping: worst delay performance (1.9 avg delay days)
 
