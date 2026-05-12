@@ -1,5 +1,3 @@
-# supply-chain-dashboard
-
 # Supply Chain & ROI Analysis Dashboard
 
 ### Overview
